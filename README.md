@@ -1,2 +1,2 @@
 # RedmiNote7Tool
-Tool based on VB NET
+* Tool based on VB NET
