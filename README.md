@@ -1,6 +1,6 @@
 # Redmi Note 7 Tool
 
-A Tool based on VB NET
+Tool based on VB NET
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Download the Tool from here * [RedmiNote7Tool](https://github.com/Franco28/Flash
 
 ### Prerequisites
 
-- You must have NetFramework installed on your PC * [JAVA](https://dotnet.microsoft.com/download) 
+- You must have NetFramework installed on your PC * [Net Framework](https://dotnet.microsoft.com/download) 
 - Windows 10 64 Bits
 
 ### How it works
@@ -22,7 +22,7 @@ Download the Tool from here * [RedmiNote7Tool](https://github.com/Franco28/Flash
 
 ### Home Tool
 
-![Tool](https://raw.githubusercontent.com/Franco28/FlashTool-OP/master/Tool.png "Tool")
+![Tool](https://raw.githubusercontent.com/Franco28/RedmiNote7Tool/master/tool.png "Tool")
 
 ## Built With
 
