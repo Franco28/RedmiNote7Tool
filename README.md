@@ -4,7 +4,7 @@ Tool based on VB NET
 
 ## Getting Started
 
-Download the Tool from here * [RedmiNote7Tool](https://github.com/Franco28/FlashTool-OP/releases) 
+Download the Tool from here * [RedmiNote7Tool](https://github.com/Franco28/RedmiNote7Tool/releases) 
 
 ### Prerequisites
 
