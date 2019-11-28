@@ -379,7 +379,7 @@ Public Class Visual
 
     End Sub
 
-    Private Sub EnterEDLModeToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles EnterEDLModeToolStripMenuItem.Click
+    Private Sub Enter|ModeToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles EnterEDLModeToolStripMenuItem.Click
 
         Dim result = MessageBox.Show("Are you sure that you wan to enter to EDL mode? This can´t be undone!", "Warning!", MessageBoxButtons.YesNo, MessageBoxIcon.Warning)
 
